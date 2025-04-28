@@ -58,6 +58,6 @@ while True:
     client_socket.send(encrypted_message)
     if message == "exit":
         break
-
+#lab_04
 # Close the connection when done
 client_socket.close()
